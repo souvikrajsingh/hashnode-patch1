@@ -1,3 +1,5 @@
+Link to my blog : [Contribution to Open Source is EASY!](https://souvikrajsingh.hashnode.dev/contributing-to-open-source-is-easy)
+
 This repository is for a hands-on practise of contributing to a open-source project. For your practise you can see I have added a text file (names.txt) 
 where all you need to do is add your name, github username, twitter username.
 
